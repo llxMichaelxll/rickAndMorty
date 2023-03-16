@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Days+One&display=swap');
+
+*{
+    text-decoration: none;
+    list-style: none;
+}
+.contenedor-footer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.b-footer p{
+    color:#52D910 ;
+    font-family:'Days One', sans-serif;
+}
+
+.b-footer{
+    display: flex;
+    width: 40%;
+}
+.c-footer{
+    display: flex;
+}
+.botones-footer {
+    width: 50px;
+    height: auto;
+    background-color: aquamarine;
+}
